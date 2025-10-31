@@ -1,0 +1,18 @@
+# Log e backup generati dagli script
+*.log
+*.txt
+QMR_ConfigBackup/
+QMR_BootCheck_Log.txt
+QMR_Watchdog_Log.txt
+
+# File temporanei
+*.tmp
+*.bak
+*.old
+
+# File di sistema
+Thumbs.db
+.DS_Store
+
+# PowerShell cache
+*.ps1~
