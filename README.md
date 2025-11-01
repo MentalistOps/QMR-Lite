@@ -71,7 +71,10 @@ QMR-Lite/ ├── modules/ │   ├── bootcheck.ps1 │   ├── resto
 > L'utente si assume **piena responsabilità** per ogni azione eseguita sul proprio sistema.  
 > Si consiglia di testare in ambienti virtuali o non critici prima dell'uso in produzione.
 
----
+---## 🔽 Download
+
+You can download the full QMR-Lite toolkit as a ZIP file here:  
+[Download QMR-Lite ZIP](https://github.com/MentalistOps/QMR-Lite/archive/refs/heads/main.zip)
 
 ## 📣 Supporto e donazioni
 
