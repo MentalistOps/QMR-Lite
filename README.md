@@ -107,7 +107,10 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-## 🔽 Download
 
-You can download the full QMR-Lite toolkit as a ZIP file here:  
-[Download QMR-Lite ZIP](https://github.com/MentalistOps/QMR-Lite/archive/refs/heads/main.zip)
+
+
+
+
+
+
